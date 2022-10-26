@@ -4,4 +4,4 @@ plugins:
 
 title: Last lab
 description: This is my last lab homework hahaha
-show_downloads: "true" or "false" (unquoted) to indicate whether to provide a download URL
+show_downloads: ["true"]
